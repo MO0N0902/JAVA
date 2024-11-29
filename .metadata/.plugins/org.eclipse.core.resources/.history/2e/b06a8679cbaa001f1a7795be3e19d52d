@@ -1,0 +1,14 @@
+package variable;
+//1번
+public class Variable01 {
+
+	public static void main(String[] args) {
+		//변수 선언
+		//자료형 변수명;
+		int number;
+		boolean isTrue;
+		double number;
+
+	}
+
+}

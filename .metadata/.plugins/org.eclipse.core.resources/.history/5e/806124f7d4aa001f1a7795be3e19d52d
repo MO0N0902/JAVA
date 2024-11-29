@@ -1,0 +1,24 @@
+package variable;
+
+public class Variable03 {
+
+	public static void main(String[] args) {
+	// 정수형 = 4byte : -2,147,483,648 ~ 2,147,483,647
+	// 정수형 long 8byte : -9,223,372,036,854,775,808 ~ 9,223,372,036,854,775,807 (64비트 정수)
+
+			int inVal = 2147483647;
+			System.out.println(inVal);
+			long longVAL = 2147483648L;
+			System.out.println(longVAL);
+			
+			//실수형 double 8byte : 15자리 소수점 이하 => 넓은범위 표현 가능 
+			//실수형 float 4byte : 6~7 자리 소수점 이하 => 메모리를 더 적게 사용, 정밀도가 낮음
+			
+			double doubleVal = 3.1415924454245;
+			System.out.println(doubleVal);
+			float floatVal = 3.1415926f;
+			System.out.println(floatVal);
+		
+	}
+
+}

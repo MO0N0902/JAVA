@@ -1,0 +1,16 @@
+package variable;
+
+public class Variable02 {
+
+	public static void main(String[] args) {
+		//문자부터 시작한다
+		int 1num = 10; 숫자부터 시작시 오류발생
+			
+		//특수문자를 쓸 수 없다
+		int @#$ = 10;
+		int a_e = 10;
+		System.out.println(a_e);
+		
+	}
+
+}

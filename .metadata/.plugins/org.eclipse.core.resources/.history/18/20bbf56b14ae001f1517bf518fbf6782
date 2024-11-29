@@ -1,0 +1,11 @@
+package array;
+
+public class ArrayTest03 {
+	public static void main(String[] args) {
+		int[] arData = {4,3,2,5}; //정수형 4칸짜리배열을 변수 ardata에 저장한다
+		//정수형배열 arData stack 메모리 영역에 생성,
+		//heap 메모리 영역에 4칸짜리 4,3,2,5 라는 값을 저장한 배열을 생성하고 참조값을 
+		// arData라는 참조 변수에 담는다
+		System.out.println(arData);
+	}
+}
