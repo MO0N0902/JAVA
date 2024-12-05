@@ -7,4 +7,7 @@
     <fullyQualifiedTypeName name="methodTest.MethodTest02"/>
     <fullyQualifiedTypeName name="methodTest.MethodTest03"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="classBasic2.Rectangle"/>
+    <fullyQualifiedTypeName name="marvelTask.MavelHero"/>
+    <fullyQualifiedTypeName name="method.VarArgs"/>
 </qualifiedTypeNameHistroy>
