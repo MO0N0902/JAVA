@@ -15,4 +15,5 @@
     <fullyQualifiedTypeName name="staticTest.MyClassA"/>
     <fullyQualifiedTypeName name="constantTest.ConstantTest"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="review02.EBook"/>
 </qualifiedTypeNameHistroy>
