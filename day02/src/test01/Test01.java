@@ -6,3 +6,4 @@ public class Test01 {
 		System.out.println(2024 + 1);
 	}
 }
+
