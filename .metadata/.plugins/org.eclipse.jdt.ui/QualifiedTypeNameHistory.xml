@@ -16,4 +16,10 @@
     <fullyQualifiedTypeName name="constantTest.ConstantTest"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="review02.EBook"/>
+    <fullyQualifiedTypeName name="abstractTest2.Animal"/>
+    <fullyQualifiedTypeName name="classInterFace.InterfaceA"/>
+    <fullyQualifiedTypeName name="classInterFace.InterfaceB"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="innerTest.Outer.Inner"/>
 </qualifiedTypeNameHistroy>
