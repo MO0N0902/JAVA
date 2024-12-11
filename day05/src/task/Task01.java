@@ -96,6 +96,20 @@ public class Task01 {
 //         입력 : 5 1 9
 //         출력 : 1 5 9
      
+     System.out.println("첫번쩨 정수를 입력해주세요");
+     int num1 = sc.nextInt();
+     System.out.println("두번쩨 정수를 입력해주세요");
+     int num2 = sc.nextInt();
+     System.out.println("세번쩨 정수를 입력해주세요");
+     int num3 = sc.nextInt();
+     
+     int max = num1>num2 ? (num1>num3? num1 : num3) : (num2>num3? num2 : num3);
+     int min = num1<num2 ? (num1<num3? num1 : num3) : (num2<num3? num2 : num3);
+     int mid = (num1+num2+num3) -(max + min);
+     
+     System.out.println("입력 : " + num1 + " "+ num2 + " "+ num3);
+     System.out.println("출력 : " + min +" "+ mid +" "+ max);
+     
      //변수 3개 만들어
 //     int num4, num5, num6 = 0;
 //     String result4 = "";
@@ -131,16 +145,16 @@ public class Task01 {
            
 //
 //      6. 사용자가 입력한 숫자에 해당하는 구구단을 출력하기
-     int choice = 0; //선택할 숫자 변수 만들기
-     while(choice !=10) {
-    	 System.out.println("원하는 숫자의 구구단이 나타납니다");
-    	 choice = sc.nextInt();
-    		
-    		 for(int i = 1; i <10; i++) {
-    		 System.out.printf("%d x %d = %d\n",choice,i, (choice*i));
-    		 }
-    		 
-    	 }
+//     int choice = 0; //선택할 숫자 변수 만들기
+//     while(choice !=10) {
+//    	 System.out.println("원하는 숫자의 구구단이 나타납니다");
+//    	 choice = sc.nextInt();
+//    		
+//    		 for(int i = 1; i <10; i++) {
+//    		 System.out.printf("%d x %d = %d\n",choice,i, (choice*i));
+//    		 }
+//    		 
+//    	 }
     	 
     	 
      

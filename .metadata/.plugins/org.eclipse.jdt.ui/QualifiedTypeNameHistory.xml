@@ -10,4 +10,10 @@
     <fullyQualifiedTypeName name="classBasic2.Rectangle"/>
     <fullyQualifiedTypeName name="marvelTask.MavelHero"/>
     <fullyQualifiedTypeName name="method.VarArgs"/>
+    <fullyQualifiedTypeName name="staticTest.MathUtils"/>
+    <fullyQualifiedTypeName name="staticTest.StaticTest01"/>
+    <fullyQualifiedTypeName name="staticTest.MyClassA"/>
+    <fullyQualifiedTypeName name="constantTest.ConstantTest"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="review02.EBook"/>
 </qualifiedTypeNameHistroy>

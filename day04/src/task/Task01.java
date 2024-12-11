@@ -25,6 +25,14 @@ public class Task01 {
 
 		// 2. 키와 몸무게를 입력받아 bmi를 계산하기
 		// 공식 몸무게 / (키*키)
+		System.out.println("키를 입력해주세요");
+		int height = sc.nextInt();
+		System.out.println("몸무게를 입력해주세요");
+		int weight = sc.nextInt();
+		int bmi = weight/(height*height);
+		
+		System.out.println("bmi : " + bmi);
+		
 
 		// 3. 밑변과 높이를 입력받아 삼각형의 높이 계산하기
 		// 공식 0.5*밑변*높이
@@ -51,5 +59,10 @@ public class Task01 {
 		// 10. 연도를 입력받아 윤년인지 아닌지 출력하기
 		//true or false true이면 0000년은 윤년입니다 출력
 		//윤년계산 : 연도가 4로 나누어떨어지고 100으로 나누어 떨어지지 않거나 400으로 나누어 떨어져야한다
+		int resultYear = 0;
+		int Year = 0;
+		
+		
+		
 	}
 }

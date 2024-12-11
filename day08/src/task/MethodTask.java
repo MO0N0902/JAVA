@@ -72,6 +72,17 @@ public class MethodTask {
 // 메소드명 printMinMax
 // 
 	
+	void printMinMax(int[] arr) {
+		int Min = arr[0];
+		int Max = arr[0];
+		
+		for(int i=1; i<=arr.length; i++) {
+			if(Max<arr[i]) {
+				Max = arr[i];
+			}
+		}
+	}
+	
 	
 	
 // 6. 소문자는 대문자로, 대문자는 소문자로 바꿔주는 메소드
@@ -79,9 +90,13 @@ public class MethodTask {
 // 메소드명 : changeCase
 // 매개변수와 리턴값 자유 => 단, 형변환 이용할 것
 
+	
+	
 // 7. 아이디와 비밀번호를 입력받아 로그인하기
 // 매개변수 o, 리턴값 o(boolean 타입)
 // 메소드명 : login
 // main메소드에서 id가 admin이고 비밀번호가 1234이면 관리자님 환영합니다 출력
 // 둘 중 하나라도 틀리면 잘못입력했습니다 출력
+	
+	
 }
