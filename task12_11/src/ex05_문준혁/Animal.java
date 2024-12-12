@@ -2,7 +2,7 @@ package ex05_문준혁;
 
 public abstract class Animal {
 	// 필드
-	String name;
+	protected String name; //protected를 못보고 못넣었습니다
 
 	//생성자
 	public Animal(String name) {

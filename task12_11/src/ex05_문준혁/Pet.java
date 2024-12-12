@@ -21,8 +21,7 @@ public class Pet extends Animal{
 	}
 	
 	@Override
-	void performActions() {
-//		if instanceof 
+	void performActions() { 
 		pet.play();
 		pet.eat();
 		pet.sleep();
