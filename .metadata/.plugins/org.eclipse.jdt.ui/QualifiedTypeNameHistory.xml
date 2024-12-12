@@ -30,4 +30,12 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="task.SumException"/>
+    <fullyQualifiedTypeName name="section12.PastaReceipt"/>
+    <fullyQualifiedTypeName name="section12.StakeReceipt"/>
+    <fullyQualifiedTypeName name="section12.PineapplePhone"/>
+    <fullyQualifiedTypeName name="section12.ThreeStarPhone"/>
+    <fullyQualifiedTypeName name="section12.Phone10"/>
+    <fullyQualifiedTypeName name="section12.BluetoothMIC"/>
+    <fullyQualifiedTypeName name="section12.Microphone"/>
+    <fullyQualifiedTypeName name="section12.Speaker"/>
 </qualifiedTypeNameHistroy>
