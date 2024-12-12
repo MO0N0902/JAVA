@@ -14,23 +14,22 @@ public class Sumprint {
 	}
 	
 	//메소드
-	void sumNum(int sum) throws SumException{
+	void sumNum() {
+		int sum =0;
 		System.out.println("1부터 입력한 수까지 덧셈을 진행합니다");
 		try {
 			num=sc.nextInt();
+			for(int i=1; i<=num; i++) {
+				sum +=i;
+			}
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			System.out.println("정수의 형태로 입력해주세요");
 			e.printStackTrace();
 		}
-		if(num <0) {
-			throw new SumException("정수의 형태로 입력해주세요");
-		}else {
-		for(int i = 1; i<=num; i++) {
-			sum += i;
-			
-		}
+		
+		
 		System.out.println("1부터" + num + "까지의 합은" + sum + "입니다");
 		}
 	}
 
-}
+
