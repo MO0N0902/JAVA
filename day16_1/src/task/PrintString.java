@@ -15,7 +15,7 @@ public class PrintString {
 	void printStrInt(String str1) {
 		try {
 			int num = Integer.parseInt(str1); //드래그해서 try catch 생성
-			System.out.println("입력한 문자열 : " + str1 + "변환한 정수 : " + num);
+			System.out.println("입력한 문자열 : " + str1 + " 변환한 정수 : " + num);
 		} catch (NumberFormatException e) {
 			System.out.println("숫자가 아닌 문자열이 입력되었습니다"); 
 			
