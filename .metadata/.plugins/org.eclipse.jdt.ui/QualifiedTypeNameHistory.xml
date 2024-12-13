@@ -38,4 +38,13 @@
     <fullyQualifiedTypeName name="section12.BluetoothMIC"/>
     <fullyQualifiedTypeName name="section12.Microphone"/>
     <fullyQualifiedTypeName name="section12.Speaker"/>
+    <fullyQualifiedTypeName name="javax.swing.event.ListDataEvent"/>
+    <fullyQualifiedTypeName name="listTest.ArrayList03"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="listTest.ArrayListTest02"/>
+    <fullyQualifiedTypeName name="listTest.ArraysTest"/>
+    <fullyQualifiedTypeName name="setTest.HashSetTest01"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
 </qualifiedTypeNameHistroy>
