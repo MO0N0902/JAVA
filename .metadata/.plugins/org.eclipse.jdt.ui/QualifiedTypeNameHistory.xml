@@ -50,4 +50,7 @@
     <fullyQualifiedTypeName name="java.util.WeakHashMap"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.app.dao.DBConnector"/>
+    <fullyQualifiedTypeName name="com.app.domain.UserDTO"/>
 </qualifiedTypeNameHistroy>
